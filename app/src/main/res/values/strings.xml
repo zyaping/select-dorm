@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">selectdorm</string>
+    <drawable name="login_btn_normal">#6495ED</drawable>
+    <drawable name="login_btn_press">#4682B4</drawable>
+    <drawable name="refresh_normal">#4682B4</drawable>
+    <drawable name="refresh_press">#6495ED</drawable>
 </resources>
