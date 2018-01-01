@@ -7,7 +7,7 @@
         android:id="@+id/main_per_info_title"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:background="#4682B4">
+        android:background="#00b2ee">
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -241,7 +241,7 @@
             android:layout_marginRight="5dp"
             android:layout_below="@+id/main_per_info"
             android:layout_centerHorizontal="true"
-            android:background="@drawable/login_btn_select"
+            android:background="#00b2ee"
             android:text="开始办理"
             android:layout_marginTop="20dp" />
 

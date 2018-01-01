@@ -15,7 +15,7 @@
                 android:id="@+id/re_title_layout"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
-                android:background="#4682B4">
+                android:background="#00b2ee">
                 <ImageView
                     android:id="@+id/re_home"
                     android:layout_width="wrap_content"
@@ -660,7 +660,7 @@
                 android:layout_below="@+id/sd_roommate_info_layout"
                 android:text="开始办理"
                 android:textSize="25sp"
-                android:background="@drawable/login_btn_select"
+                android:background="#00b2ee"
                 />
             <View
                 android:layout_width="match_parent"

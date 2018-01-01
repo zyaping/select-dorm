@@ -7,7 +7,7 @@
         android:id="@+id/st_title"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:background="#4682B4">
+        android:background="#00b2ee">
         <ImageView
             android:id="@+id/st_home"
             android:layout_width="wrap_content"
